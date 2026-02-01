@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1046722672036",
+    "project_id": "rakibul-d169f",
+    "storage_bucket": "rakibul-d169f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046722672036:android:0784a658cde2c46435bd31",
+        "android_client_info": {
+          "package_name": "com.example.restaurant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcQBHGONRQClLkke9oUC_GxVvayOBwOIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
