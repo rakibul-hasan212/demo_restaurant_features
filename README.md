@@ -111,7 +111,7 @@ dart main.dart
 
 ## 📸 Screenshots
 
-> 📷 Add output screenshots or feature demos here (recommended)
+> 📷 Add the Screenshots later
 
 ---
 
